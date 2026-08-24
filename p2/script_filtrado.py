@@ -11,7 +11,7 @@ import pandas as pd
 # -----------------------------------------------------------------------------
 # 1. CONFIGURACIÓN Y RUTAS DE TRABAJO
 # -----------------------------------------------------------------------------
-# Único parámetro que debe cambiarse al trasladar el script a otra máquina.
+# ruta
 ruta_datos = "C:/Users/YENNY/Desktop/PROYECTOS INEI/problem-sets-fcd/"
 ruta_salida = os.path.join(ruta_datos, "problem-set-1", "p2")
 os.makedirs(ruta_salida, exist_ok=True)
