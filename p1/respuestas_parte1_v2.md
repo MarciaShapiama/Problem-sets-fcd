@@ -38,7 +38,7 @@ De esta distinción surge el modelo **DST (Data Science Trajectories)**, que con
 - **Actividades exploratorias:** exploración de metas, de fuentes de datos, del valor de los datos, de resultados, narrativa (comunicación de hallazgos mediante los datos) y de producto.
 - **Actividades de gestión de datos:** adquisición, simulación, arquitectura y liberación de datos, relevantes en aquellos contextos en los que el dato constituye el producto final y no únicamente un insumo del proceso.
 
-La comparación entre ambos modelos se resume en el diagrama presentado en la conversación asociada a este documento y, en formato reproducible para su visualización en GitHub, a continuación:
+La comparación entre ambos modelos se resume en el diagrama presentado, a continuación:
 
 ```mermaid
 flowchart LR
