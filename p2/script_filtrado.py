@@ -2,14 +2,7 @@
 =============================================================================
 SCRIPT DE FILTRADO DE VARIABLES - ENAHO Módulo 1 (2019 - 2025)
 =============================================================================
-Este script no requiere inputs. Toma como único parámetro editable la ruta
-base donde están los archivos crudos ENAHO01-{año}-100.csv, y como output
-guarda, para cada año, un dataframe filtrado que conserva únicamente las
-variables identificadas como utilizables en la sección "Entendiendo los
-datos" (ver p2/ENTENDIMIENTODELOSDATOS.md, sección 1.2): variables
-estructurales, geográficas y de gestión de campo registradas en el
-Módulo 1, que existen con independencia del resultado final de la
-entrevista (a diferencia de las variables del Módulo 2 en adelante).
+
 """
 
 import os
