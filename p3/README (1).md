@@ -113,3 +113,11 @@ Crea la base de datos automáticamente y muestra:
 3. Crear usuario(a)
 4. Salir
 ```
+## Cómo correr las pruebas
+
+```bash
+python test_ps3.py
+```
+
+Este script crea una base de datos de prueba desde cero y va imprimiendo `[OK]` o `[FALLA]` para cada caso que revisa: ISBN repetido, autor duplicado con tildes o mayúsculas distintas, año de publicación futuro, cantidad inválida, búsqueda del catálogo, DNI inválido o repetido, y el borrado de un autor con libros asociados. Si todo está bien, no debería aparecer ningún `[FALLA]` en la salida.
+
