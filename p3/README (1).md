@@ -5,8 +5,11 @@
 # Biblioteca — Sistema de Gestión de Libros y Usuarios
 
 **Curso:** Fundamentos de Ciencia de Datos
+
 **Docente:** Carla Solis Uehara
+
 **Alumna:** Marcia Shapiama De La Cruz
+
 **Fecha:** Setiembre 2026
 
 ---
