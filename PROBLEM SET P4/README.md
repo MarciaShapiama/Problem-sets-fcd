@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="assets/inei_logo.png" width="130" alt="Logo INEI">
+  <img src="inei_logo.png" width="130" alt="Logo INEI">
 </div>
 
 # Indicadores Sociodemográficos, Censo 2017 Amazonas
