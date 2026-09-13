@@ -6,7 +6,9 @@
 
 **Curso:** Fundamentos de Ciencia de Datos
 **Docente:** Carla Solis Uehara
+
 **Alumna:** Marcia Shapiama De La Cruz
+
 **Fecha:** Setiembre 2026
 
 ---
