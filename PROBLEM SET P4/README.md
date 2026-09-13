@@ -5,6 +5,8 @@
 # Indicadores Sociodemográficos, Censo 2017 Amazonas
 
 **Curso:** Fundamentos de Ciencia de Datos
+
+
 **Docente:** Carla Solis Uehara
 
 **Alumna:** Marcia Shapiama De La Cruz
